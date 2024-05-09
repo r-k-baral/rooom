@@ -21,12 +21,13 @@ const config = {
       colors: {
         dark: {
           1: '#1C1F2E',
-          2: '#161925',
+          2: 'rgb(103 219 177)',
           3: '#252A41',
           4: '#1E2757',
+          5: 'rgb(9 11 9)',
         },
         blue: {
-          1: '#0E78F9',
+          1: 'rgb(192 46 198)',
         },
         sky: {
           1: '#C9DDFF',
@@ -37,7 +38,7 @@ const config = {
           1: '#FF742E',
         },
         purple: {
-          1: '#830EF9',
+          1: 'rgb(44 189 52)',
         },
         yellow: {
           1: '#F9A90E',
@@ -58,7 +59,11 @@ const config = {
         'accordion-up': 'accordion-up 0.2s ease-out',
       },
       backgroundImage: {
-        hero: "url('/images/hero-background.png')",
+        hero: "url('/images/hero-background.jpg')",
+        ram:  "url('/images/logo-app.png')",
+        ckm: "url('/images/meet-app.png')",
+        mar: "url('/images/sch-app.png')",
+        rec: "url('/images/rec-app.png')"
       },
     },
   },
