@@ -6,7 +6,6 @@ import Sidebar from '@/components/Sidebar';
 
 export const metadata: Metadata = {
   title: 'ROOOM',
-  
   description: 'A workspace for your team, powered by Stream Chat and Clerk.',
 };
 
